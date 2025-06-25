@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\RGR\RGR\bin\Debug\RGR.exe.config
+C:\Users\user\Desktop\RGR\RGR\bin\Debug\RGR.exe
+C:\Users\user\Desktop\RGR\RGR\bin\Debug\RGR.pdb
+C:\Users\user\Desktop\RGR\RGR\obj\Debug\RGR.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\RGR\RGR\obj\Debug\RGR.Form1.resources
+C:\Users\user\Desktop\RGR\RGR\obj\Debug\RGR.Properties.Resources.resources
+C:\Users\user\Desktop\RGR\RGR\obj\Debug\RGR.csproj.GenerateResource.cache
+C:\Users\user\Desktop\RGR\RGR\obj\Debug\RGR.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RGR\RGR\obj\Debug\RGR.exe
+C:\Users\user\Desktop\RGR\RGR\obj\Debug\RGR.pdb
